@@ -26,6 +26,7 @@
     <a href="https://steamcommunity.com/profiles/76561199010541154s" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
     
   ![Snake animation](https://github.com/Essrrom/Essrrom/blob/output/github-contribution-grid-snake.svg)
+    <br>
     
   </div>
     
