@@ -10,7 +10,7 @@
   </div>
   
   <div style="display: inline_block"><br>
-    <a href="https://github.com/Essrrom"><img align="center" alt="Essrrom-Follow" height="30" width="200" src="https://img.icons8.com/clr-gls/500/000000/github--v2.png"></a><br><br>
+    <a href="https://github.com/Essrrom"><img align="center" alt="Essrrom-Follow" height="30" width="200" src="https://img.icons8.com/sf-regular-filled/50/undefined/github.png"></a><br><br>
     <img align="center" alt="Essrrom-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Essrrom-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Essrrom-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
