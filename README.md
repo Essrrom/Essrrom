@@ -1,6 +1,6 @@
 ### Olá eu soou Essrrom 👋
 
-- 🌱 Estudando C# e a Engine Unity
+- 🌱 Estudando HTML, CSS, JS, C# e a Engine Unity
 - 😄 Pronouns: Ele/Dele
   <div align="center">
   <a href="https://github.com/Essrrom">
