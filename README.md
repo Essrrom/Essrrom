@@ -1,7 +1,8 @@
 ### Olá eu soou Essrrom 👋
 
-- 🌱 Estudando HTML, CSS, JS, C# e a Engine Unity
-- 😄 Pronouns: Ele/Dele
+- 18 years
+- Apaixonado em programar
+- Estudando HTML, CSS, JS, C# e a Engine Unity
   <div align="center">
   <a href="https://github.com/Essrrom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Essrrom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
